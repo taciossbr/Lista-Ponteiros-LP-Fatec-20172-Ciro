@@ -1,3 +1,5 @@
+ex06: ex06.c
+	gcc ex06.c -o ex06
 ex05: ex05.c
 	gcc ex05.c -o ex05 -lm
 ex04: ex04.c
