@@ -1,3 +1,5 @@
+ex11:
+	gcc ex11 -o ex11
 ex10: ex10.o ex09.o
 	gcc ex10.o ex09.o -o ex10
 ex08: ex08.c
